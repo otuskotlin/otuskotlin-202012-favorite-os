@@ -23,7 +23,7 @@ kotlin {
     }
 
     sourceSets {
-        val coroutinesVersion = "1.4.2"
+        val coroutinesVersion : String by project
         val commonMain by getting {
             dependencies {
                 implementation(kotlin("stdlib-common"))
