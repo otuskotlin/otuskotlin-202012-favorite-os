@@ -1,4 +1,4 @@
-package ru.otus.hello
+package ru.otus.favorites.backend.common
 
 class HelloWorld
 

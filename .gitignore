@@ -1,3 +1,5 @@
 /.idea/
 /.gradle/
 /build/
+/favorites-be-common/build
+/favorites-multiplatform-common/build
